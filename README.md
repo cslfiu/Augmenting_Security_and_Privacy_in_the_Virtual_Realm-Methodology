@@ -41,8 +41,11 @@ This criteria alone eliminated 59 papers. This number being high is due to sever
 
 
 ## References
-[^1] Stephenson, Sophie, et al. "Sok: Authentication in augmented and virtual reality." 2022 IEEE Symposium on Security and Privacy (SP). IEEE, 2022.
-[^2] Harborth, David, and Alisa Frik. "Evaluating and redefining smartphone permissions with contextualized justifications for mobile augmented reality apps." Seventeenth Symposium on Usable Privacy and Security (SOUPS 2021). 2021.
-[^3] Freeman, Guo, et al. "Disturbing the peace: Experiencing and mitigating emerging harassment in social virtual reality." Proceedings of the ACM on Human-Computer Interaction 6.CSCW1 (2022): 1-30.
-[^4] Moore, Alec G., et al. "Personal identifiability of user tracking data during VR training." 2021 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW). IEEE, 2021.
+- [^1] Stephenson, Sophie, et al. "Sok: Authentication in augmented and virtual reality." 2022 IEEE Symposium on Security and Privacy (SP). IEEE, 2022.
+
+- [^2] Harborth, David, and Alisa Frik. "Evaluating and redefining smartphone permissions with contextualized justifications for mobile augmented reality apps." Seventeenth Symposium on Usable Privacy and Security (SOUPS 2021). 2021.
+
+- [^3] Freeman, Guo, et al. "Disturbing the peace: Experiencing and mitigating emerging harassment in social virtual reality." Proceedings of the ACM on Human-Computer Interaction 6.CSCW1 (2022): 1-30.
+
+- [^4] Moore, Alec G., et al. "Personal identifiability of user tracking data during VR training." 2021 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW). IEEE, 2021.
 
