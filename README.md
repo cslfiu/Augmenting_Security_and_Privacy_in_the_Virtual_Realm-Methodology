@@ -35,6 +35,7 @@ The search strategy that is explained in further detail in Appendix A yielded 10
 
 
 *Eligibility Criteria-1: Is the article related to the security and/or privacy of XR devices? If not, exclude the paper from the list.
+
 *Eligibility Criteria-2: Is the article only proposing an authentication model, without going into the details of possible attacks that can be done on the devices? If yes, exclude the paper from the list.
 
 
