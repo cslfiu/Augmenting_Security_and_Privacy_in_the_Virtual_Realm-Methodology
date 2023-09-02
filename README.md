@@ -34,9 +34,9 @@ Table 1 shows the set of phrases that are used for literature paper searches. Th
 The search strategy that is explained in further detail in Appendix A yielded 101 potential papers which we double-checked if they met our elimination criteria. This step was done manually and no automation tool was utilized. To check if it met the criteria, one author read the abstracts of the papers in detail and skimmed through the papers if the abstracts weren't enough to get an understanding of the paper. The elimination criteria are given below:
 
 
-*Eligibility Criteria-1: Is the article related to the security and/or privacy of XR devices? If not, exclude the paper from the list.
-
-*Eligibility Criteria-2: Is the article only proposing an authentication model, without going into the details of possible attacks that can be done on the devices? If yes, exclude the paper from the list.
+* *Eligibility Criteria-1:* Is the article related to the security and/or privacy of XR devices? If not, exclude the paper from the list.
+ 
+* *Eligibility Criteria-2:* Is the article only proposing an authentication model, without going into the details of possible attacks that can be done on the devices? If yes, exclude the paper from the list.
 
 
 This criteria alone eliminated 59 papers. This number being high is due to several factors. For instance, we realized during the elimination of the papers that, the initial set of 101 potential papers also contained articles that had a scope of AR apps in smart phones [2], which is not related to XR devices. Additionally, the first set of papers contained many articles that weren't directly related to the devices' or the users' security and privacy, or not going into depth on the attacks and defenses [3]. We also removed 9 additional papers from the first potential papers list that were either a magazine version of the conference paper that was also included in the list or papers that were only expanding the work done on a paper that was already included in the list [4].
