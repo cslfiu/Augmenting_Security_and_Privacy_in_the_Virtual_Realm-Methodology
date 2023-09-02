@@ -27,7 +27,8 @@ Table 1 shows the set of phrases that are used for literature paper searches. Th
 | virtual reality devices    |                      | defense           |
 | mixed reality devices      |                      | attack            |
 | holographic display        |                      |                   |
-Table 1: Identified Set of Phrases for Literature Review Search
+
+### Table 1: Identified Set of Phrases for Literature Review Search
 
 ## Eligibility Criteria.
 The search strategy that is explained in further detail in Appendix A yielded 101 potential papers which we double-checked if they met our elimination criteria. This step was done manually and no automation tool was utilized. To check if it met the criteria, one author read the abstracts of the papers in detail and skimmed through the papers if the abstracts weren't enough to get an understanding of the paper. The elimination criteria are given below:
