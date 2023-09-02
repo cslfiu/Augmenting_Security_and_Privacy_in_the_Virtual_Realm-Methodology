@@ -2,7 +2,7 @@
 This repository outlines the methodology used in our Systematization of Knowledge (SoK) paper, titled "Augmenting Security and Privacy in the Virtual Realm: An Analysis of Extended Reality Devices".
 
 ## Venues Considered. 
-For venue selection, we used [CSRankings](https://scholar.google.com/citations?view_op=top_venues) where we selected *Engineering and Computer Science* as the category, a similar approach was followed in other survey papers[^1]. This presented different subcategories of venues, and we selected the ones related to security and privacy and AR/VR/MR devices. 
+For venue selection, we used [CSRankings](https://scholar.google.com/citations?view_op=top_venues) where we selected *Engineering and Computer Science* as the category, a similar approach was followed in other survey papers[1]. This presented different subcategories of venues, and we selected the ones related to security and privacy and AR/VR/MR devices. 
 
 Hence, we chose:
 * Computer Security & Cryptography: security and privacy attacks are directly related to computer security
@@ -37,15 +37,15 @@ The search strategy that is explained in further detail in Appendix A yielded 10
 *Eligibility Criteria-2: Is the article only proposing an authentication model, without going into the details of possible attacks that can be done on the devices? If yes, exclude the paper from the list.
 
 
-This criteria alone eliminated 59 papers. This number being high is due to several factors. For instance, we realized during the elimination of the papers that, the initial set of 101 potential papers also contained articles that had a scope of AR apps in smart phones [^2], which is not related to XR devices. Additionally, the first set of papers contained many articles that weren't directly related to the devices' or the users' security and privacy, or not going into depth on the attacks and defenses [^3]. We also removed 9 additional papers from the first potential papers list that were either a magazine version of the conference paper that was also included in the list or papers that were only expanding the work done on a paper that was already included in the list [^4].
+This criteria alone eliminated 59 papers. This number being high is due to several factors. For instance, we realized during the elimination of the papers that, the initial set of 101 potential papers also contained articles that had a scope of AR apps in smart phones [2], which is not related to XR devices. Additionally, the first set of papers contained many articles that weren't directly related to the devices' or the users' security and privacy, or not going into depth on the attacks and defenses [3]. We also removed 9 additional papers from the first potential papers list that were either a magazine version of the conference paper that was also included in the list or papers that were only expanding the work done on a paper that was already included in the list [4].
 
 
 ## References
-- [^1] Stephenson, Sophie, et al. "Sok: Authentication in augmented and virtual reality." 2022 IEEE Symposium on Security and Privacy (SP). IEEE, 2022.
+- [1] Stephenson, Sophie, et al. "Sok: Authentication in augmented and virtual reality." 2022 IEEE Symposium on Security and Privacy (SP). IEEE, 2022.
 
-- [^2] Harborth, David, and Alisa Frik. "Evaluating and redefining smartphone permissions with contextualized justifications for mobile augmented reality apps." Seventeenth Symposium on Usable Privacy and Security (SOUPS 2021). 2021.
+- [2] Harborth, David, and Alisa Frik. "Evaluating and redefining smartphone permissions with contextualized justifications for mobile augmented reality apps." Seventeenth Symposium on Usable Privacy and Security (SOUPS 2021). 2021.
 
-- [^3] Freeman, Guo, et al. "Disturbing the peace: Experiencing and mitigating emerging harassment in social virtual reality." Proceedings of the ACM on Human-Computer Interaction 6.CSCW1 (2022): 1-30.
+- [3] Freeman, Guo, et al. "Disturbing the peace: Experiencing and mitigating emerging harassment in social virtual reality." Proceedings of the ACM on Human-Computer Interaction 6.CSCW1 (2022): 1-30.
 
-- [^4] Moore, Alec G., et al. "Personal identifiability of user tracking data during VR training." 2021 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW). IEEE, 2021.
+- [4] Moore, Alec G., et al. "Personal identifiability of user tracking data during VR training." 2021 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW). IEEE, 2021.
 
