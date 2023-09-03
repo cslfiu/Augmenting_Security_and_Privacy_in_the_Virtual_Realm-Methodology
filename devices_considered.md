@@ -2,7 +2,7 @@
 
 ## Device Search Methodology
 
-From the papers that we considered, we gathered the devices used for the experiments. Some papers included the device name only as an example, while others used it to implement their proposed methods for the attacks or defense solution. We also looked at the companies that produced the devices mentioned in the papers and added the other XR devices from those companies to our device dataset. Additionally, we also added the older and newer versions of the devices, if there are any. At the end of this process, in total, we identified 28 XR devices which a whole list of can be found from the GitHub repository.
+From the papers that we considered (can be found from full_list_of_papers.md), we gathered the devices used for the experiments. Some papers included the device name only as an example, while others used it to implement their proposed methods for the attacks or defense solution. We also looked at the companies that produced the devices mentioned in the papers and added the other XR devices from those companies to our device dataset. Additionally, we also added the older and newer versions of the devices, if there are any. At the end of this process, in total, we identified 28 XR devices which a whole list of can be found from the GitHub repository.
 
 ## Device Manifacturer's Security Documentation and Privacy Policy Links
 
