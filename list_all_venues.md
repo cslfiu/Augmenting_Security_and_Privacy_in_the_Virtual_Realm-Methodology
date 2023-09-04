@@ -1,8 +1,8 @@
 # List of Top 60 Venues (in no particular order) According to CS Rankings. 
 
 - **Venue**
-  - ACM Symposium on Computer and Communications Security (0)
-  - IEEE Transactions on Information Forensics and Security (44)
+  - ACM Symposium on Computer and Communications Security 
+  - IEEE Transactions on Information Forensics and Security 
   - IEEE Symposium on Security and Privacy
   - USENIX Security Symposium
   - Computers & Security
@@ -61,6 +61,5 @@
   - International Journal of Interactive Mobile Technologies
   - HCI International
   - International Conference on Automotive User Interfaces and Interactive Vehicular Applications
-  - Virutal Reality (Springer)
-  - IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops
+
 
