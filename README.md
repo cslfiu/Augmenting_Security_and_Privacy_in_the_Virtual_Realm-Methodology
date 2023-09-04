@@ -12,7 +12,7 @@ Hence, we chose:
 As each category contained the top 20 venues, this resulted in 60 total venues for which we analyzed submissions.
 
 ## ACM, CCS, IEEE Workshop Libraries Search.
-In addition to the top 60 venues that we searched for using CSRankings, we also wanted to examine the published papers that were directly related to our topic but was not included in the top 60 venues. For this purpose, we additionally examined ACM, CCS, and IEEE Workshop libraries using the terms that are detailed in the following section. The list of all venues considered can be found in list_all_venues.md in this repository. 
+In addition to the top 60 venues that we searched for using CSRankings, we also wanted to examine the published papers that were directly related to our topic but were not included in the top 60 venues. For this purpose, we also quaried ACM, CCS, and IEEE Workshop libraries using the terms that are detailed in the following section. The list of all venues considered can be found in list_all_venues.md in this repository. 
 
 ## Terms Considered.
 We define terms as the words that we looked for when we were finding published papers and set of terms as the combinations of words. With the set of terms, we aim to find all relevant papers that are proposing security and privacy attacks or their defenses on AR/VR/MR devices. We selected the terms by first understanding how Google Scholar's Advanced Search option operates. For the **exact phase** bar we wrote the terms that we wanted to be present in the paper that must be included in the exact order we wrote the term. Furthermore, we used **with all of the words** search bar, to yield papers that included all of the terms that we chose in the paper. To span all possible words, we used OR operations which are identifiable by Google Scholar Advanced Search. 
@@ -34,7 +34,7 @@ Table 1 shows the set of terms that are used for literature paper searches. The 
 ### Table 1: Identified Set of Terms for Literature Review Search
 
 ## Eligibility Criteria.
-The search strategy that is explained in further detail in Appendix A yielded 101 potential papers which we double-checked if they met our elimination criteria. This step was done manually and no automation tool was utilized. To check if it met the criteria, one author read the abstracts of the papers in detail and skimmed through the papers if the abstracts weren't enough to get an understanding of the paper. The elimination criteria are given below:
+The search strategy that is explained in further detail in Appendix A yielded 101 potential papers which we checked if they met our elimination criteria. This step was done manually and no automation tool was utilized. To check if it met the criteria, one author read the abstracts of the papers in detail and read through the papers if the abstracts weren't enough to get an understanding of the paper. The elimination criteria are given below:
 
 
 * *Eligibility Criteria-1:* Is the article related to the security and/or privacy of XR devices? If not, exclude the paper from the list.
