@@ -1,9 +1,11 @@
-# List of Top 60 Venues (in no particular order) According to CS Rankings. 
+# List of All Venues Considered
+
+## List of Top 60 Venues (in no particular order) According to CS Rankings. 
 
 | Topic                         | Venue Name                                                                                           |
 |-------------------------------|------------------------------------------------------------------------------------------------------|
-| Computer Security & Cryptography | ACM Symposium on Computer and Communications Security (0)                                           |
-|                               | IEEE Transactions on Information Forensics and Security (44)                                         |
+| Computer Security & Cryptography | ACM Symposium on Computer and Communications Security                                            |
+|                               | IEEE Transactions on Information Forensics and Security                                         |
 |                               | IEEE Symposium on Security and Privacy                                                                |
 |                               | USENIX Security Symposium                                                                            |
 |                               | Computers & Security                                                                                 |
@@ -63,6 +65,6 @@
 |                               | HCI International                                                                                   |
 |                               | International Conference on Automotive User Interfaces and Interactive Vehicular Applications        |
 
+### Table 1: List of 60 venues found from Top Publications Search on CSRankings for related topics. 
 
-
-# List of Venues Gathered from ACM/IEEE Workshop/CCS Library Search
+## List of Venues Gathered from ACM/IEEE Workshop/CCS Library Search
