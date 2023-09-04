@@ -44,7 +44,7 @@ The search strategy that is explained in further detail in Appendix A yielded 10
 * *Eligibility Criteria-2:* Is the article only proposing an authentication model, without going into the details of possible attacks that can be done on the devices? If yes, exclude the paper from the list.
 
 
-This criteria alone eliminated 59 papers. This number being high is due to several factors. For instance, we realized during the elimination of the papers that, the initial set of 101 potential papers also contained articles that had a scope of AR apps in smart phones [2], which is not related to XR devices. Additionally, the first set of papers contained many articles that weren't directly related to the devices' or the users' security and privacy, or not going into depth on the attacks and defenses [3]. We also removed 9 additional papers from the first potential papers list that were either a magazine version of the conference paper that was also included in the list or papers that were only expanding the work done on a paper that was already included in the list [4].
+This criteria alone eliminated 59 papers. This number being high is due to several factors. For instance, we realized during the elimination of the papers that, the initial set of 101 potential papers also contained articles that had a scope of AR apps in smart phones [2], which is not related to XR devices. Additionally, the first set of papers contained many articles that weren't directly related to the devices' or the users' security and privacy, or not going into depth on the attacks and defenses, such as [3], [4]. We also removed 9 additional papers from the first potential papers list that were either a magazine version of the conference paper that was also included in the list or papers that were only expanding the work done on a paper that was already included in the list [5].
 
 
 ## References
@@ -54,5 +54,7 @@ This criteria alone eliminated 59 papers. This number being high is due to sever
 
 - [3] Freeman, Guo, et al. "Disturbing the peace: Experiencing and mitigating emerging harassment in social virtual reality." Proceedings of the ACM on Human-Computer Interaction 6.CSCW1 (2022): 1-30.
 
-- [4] Moore, Alec G., et al. "Personal identifiability of user tracking data during VR training." 2021 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW). IEEE, 2021.
+- [4] Ilyena Hirskyj-Douglas, Anna Kantosalo, Andrés Monroy-Hernández, Joelle Zimmermann, Michael Nebeling, and Mar Gonzalez-Franco. 2020. Social AR: Reimagining and Interrogating the Role of Augmented Reality in Face to Face Social Interactions. In Conference Companion Publication of the 2020 on Computer Supported Cooperative Work and Social Computing (CSCW '20 Companion). Association for Computing Machinery, New York, NY, USA, 457–465. https://doi.org/10.1145/3406865.3418585
+- 
+- [5] Moore, Alec G., et al. "Personal identifiability of user tracking data during VR training." 2021 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW). IEEE, 2021.
 
