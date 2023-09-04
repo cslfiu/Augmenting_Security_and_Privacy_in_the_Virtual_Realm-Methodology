@@ -1,7 +1,7 @@
 # SoK_Methodology
 This repository outlines the methodology used in our Systematization of Knowledge (SoK) paper, titled "Augmenting Security and Privacy in the Virtual Realm: An Analysis of Extended Reality Devices".
 
-## Venues Considered. 
+## Venues Considered for Google Scholar Search. 
 For venue selection, we used [CSRankings](https://scholar.google.com/citations?view_op=top_venues) where we selected *Engineering and Computer Science* as the category, a similar approach was followed in other survey papers[1]. This presented different subcategories of venues, and we selected the ones related to security and privacy and AR/VR/MR devices. 
 
 Hence, we chose:
@@ -10,6 +10,9 @@ Hence, we chose:
 *  Human-Computer Interaction: AR/VR/MR devices are about humans interacting with computer-generated environments and objects
   
 As each category contained the top 20 venues, this resulted in 60 total venues for which we analyzed submissions.
+
+## ACM, CCS, IEEE Workshop Libraries Search.
+In addition to the top 60 venues that we searched for using CSRankings, we also wanted to examine the published papers that were directly related to our topic but was not included in the top 60 venues. For this purpose, we additionally examined ACM, CCS, and IEEE Workshop libraries using the terms that are detailed in the following section. The list of all venues considered can be found in list_all_venues.md in this repository. 
 
 ## Terms Considered.
 We define terms as the words that we looked for when we were finding published papers and set of terms as the combinations of words. With the set of terms, we aim to find all relevant papers that are proposing security and privacy attacks or their defenses on AR/VR/MR devices. We selected the terms by first understanding how Google Scholar's Advanced Search option operates. For the **exact phase** bar we wrote the terms that we wanted to be present in the paper that must be included in the exact order we wrote the term. Furthermore, we used **with all of the words** search bar, to yield papers that included all of the terms that we chose in the paper. To span all possible words, we used OR operations which are identifiable by Google Scholar Advanced Search. 
