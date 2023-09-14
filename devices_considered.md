@@ -62,11 +62,11 @@ In our paper, information from these links is used to summarize the properties o
 
 |Link's Purpose| Link|
 | -------------------- | --------------------- | 
-| haptic feedback gloves | https://haptx.com/ | 
-| HTC Vive haptic feedback controller | https://www.vive.com/us/accessory/controller/| 
 | Meta's privacy information regarding their hand-tracking technology | https://www.meta.com/help/quest/articles/accounts/privacy-information-and-settings/hand-tracking-privacy-notice/ |
 | Vive Tracker 3 and body motion tracking | https://www.vive.com/us/accessory/tracker3/|
 | Vive Focus 3 eye tracking technology | https://business.vive.com/eu/product/vive-focus-3-eye-tracker/|
 | Meta Quest Pro's facial expression tracking | https://www.meta.com/help/quest/articles/accounts/privacy-information-and-settings/natural-facial-expressions-privacy-notice/|
 | Meta devices' passthrough technology | https://www.meta.com/help/quest/articles/in-vr-experiences/oculus-features/passthrough/|
 | Meta developer's website on haptic feedback APIs | https://developer.oculus.com/documentation/unity/unity-haptics/|
+| Haptic feedback gloves | https://haptx.com/ | 
+| HTC Vive haptic feedback controller | https://www.vive.com/us/accessory/controller/| 
