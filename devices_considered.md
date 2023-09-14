@@ -21,6 +21,43 @@ From the papers that we considered (can be found from full_list_of_papers.md), w
 | Vuzix | [vuzix.com/products/vuzix-blade-smart-glasses-upgraded](https://www.vuzix.com/products/vuzix-blade-smart-glasses-upgraded) | [vuzix.com/pages/privacy-policy](https://www.vuzix.com/pages/privacy-policy) |
 
 
+## List of All Devices Considered
+
+| Platform | Devices                                      | Type |
+|----------|----------------------------------------------|------|
+| Android  | Google Glass Enterprise Edition 2            | AR   |
+|          | Magic Leap 2                                 | MR   |
+|          | Meta Quest Pro                               | VR   |
+|          | Oculus Quest 2/ Meta Quest 2                 | VR   |
+|          | Oculus Quest / Meta Quest                    | VR   |
+|          | Oculus Go                                    | VR   |
+|          | Epson Moverio                                | AR   |
+|          | Vuzix Blade 2                                 | AR   |
+|          | Google Glass Explorer Edition                | AR   |
+|          | Google Glass Enterprise                      | AR   |
+|          | Google Daydream                              | VR   |
+|          | Magic Leap                                   | MR   |
+|          | Samsung Gear VR                              | VR   |
+|          | Vuzix Blade 2                                 | AR   |
+|          | Pico 4                                       | VR   |
+| Windows  | Oculus Rift                                  | VR   |
+|          | Microsoft Kinect One                         | AR   |
+|          | Microsoft HoloLens 2                         | MR   |
+|          | Microsoft HoloLens                           | MR   |
+|          | HTC Vive Flow                                | VR   |
+|          | HTC Vive Focus                               | VR   |
+|          | HTC Vive Cosmos                              | VR   |
+|          | HTC Vive Focus Plus                          | VR   |
+|          | HTC Vive Pro Eye                             | VR   |
+|          | HTC Vive                                     | VR   |
+|          | HTC Vive Pro                                 | VR   |
+|          | The Vive Wave                                | VR   |
+|          | Windows Mixed Reality                        | MR   |
+|          | Pimax Vision 8k                              | VR   |
+| Unix     | PSVR                                         | VR   |
+|          | PSVR 2                                       | VR   |
+
+
 ## Some Additional Links
 
 |Link's Purpose| Link|
