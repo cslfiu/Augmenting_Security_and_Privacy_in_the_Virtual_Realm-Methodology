@@ -12,7 +12,7 @@ Hence, we chose:
 As each category contained the top 20 venues, this resulted in 60 total venues for which we analyzed submissions. The list of all venues considered can be found in list_all_venues.md in this repository. 
 
 ## ACM, CCS, IEEE Workshop Libraries Search.
-In addition to the top 60 venues that we searched for using CSRankings, we also wanted to examine the published papers that were directly related to our topic but were not included in the top 60 venues. For this purpose, we also queried ACM Digital Library, CCS, and IEEE Workshop using the terms that are detailed in the following section. 
+In addition to the top 60 venues that we searched for using CSRankings, we also wanted to examine the published papers that were directly related to our topic but were not included in the top 60 venues. For this purpose, we also queried ACM Digital Library, and IEEE Xplore using the terms that are detailed in the following section. 
 
 
 ## Terms Considered.
@@ -35,7 +35,7 @@ Table 1 shows the set of terms that are used for literature paper searches. The 
 ### Table 1: Identified Set of Terms for Literature Review Search
 
 ## Eligibility Criteria.
-The search strategy yielded X potential papers (131 from Google Scholar, 123 from ACM Digital Library) and we checked if they met our elimination criteria. This step was done manually and no automation tool was utilized. To check if it met the criteria, one author read the abstracts of the papers in detail and read through the papers if the abstracts weren't enough to get an understanding of the paper. The elimination criteria are given below:
+The search strategy yielded 319 potential papers (131 from Google Scholar, 123 from ACM Digital Library, 65 from IEEE Xplore) and we checked if they met our elimination criteria. This step was done manually and no automation tool was utilized. To check if it met the criteria, one author read the abstracts of the papers in detail and read through the papers if the abstracts weren't enough to get an understanding of the paper. The elimination criteria are given below:
 
 
 * *Eligibility Criteria-1:* Is the article related to the security and/or privacy of XR devices? If not, exclude the paper from the list.
@@ -43,7 +43,7 @@ The search strategy yielded X potential papers (131 from Google Scholar, 123 fro
 * *Eligibility Criteria-2:* Is the article only proposing an authentication model, without going into the details of possible attacks that can be done on the devices? If yes, exclude the paper from the list.
 
 
-This criteria alone eliminated 59 papers. This number being high is due to several factors. For instance, we realized during the elimination of the papers that, the initial set of 101 potential papers (once all the duplicates are removed) also contained articles that are not related to XR devices. Such as some had a scope of AR apps in smartphones [2], tested their proposed method on a smartphone [3], or used a dataset not obtained through an XR device [4]. Additionally, the first set of papers contained many articles that weren't directly related to the devices' or the users' security and privacy, or not going into depth on the attacks and defenses, such as [4-6]. We also removed 9 additional papers from the first potential papers list that were either a magazine version of the conference paper that was also included in the list or papers that were only expanding the work done on a paper that was already included in the list [7].
+This criteria alone eliminated the majority of the papers. This is due to several factors. For instance, we realized during the elimination of the papers that, the initial set of potential papers (once all the duplicates are removed) also contained articles that are not related to XR devices. Such as some had a scope of AR apps in smartphones [2], tested their proposed method on a smartphone [3], or used a dataset not obtained through an XR device [4]. Additionally, the first set of papers contained many articles that weren't directly related to the devices' or the users' security and privacy, or not going into depth on the attacks and defenses, such as [4-6]. We also removed 9 additional papers from the first potential papers list that were either a magazine version of the conference paper that was also included in the list or papers that were only expanding the work done on a paper that was already included in the list [7].
 
 
 ## References
