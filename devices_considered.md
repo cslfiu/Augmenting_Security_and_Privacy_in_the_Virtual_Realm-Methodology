@@ -32,7 +32,6 @@ From the papers that we considered (can be found from full_list_of_papers.md), w
 |          | Oculus Quest / Meta Quest                    | VR   |
 |          | Oculus Go                                    | VR   |
 |          | Epson Moverio                                | AR   |
-|          | Vuzix Blade 2                                 | AR   |
 |          | Google Glass Explorer Edition                | AR   |
 |          | Google Glass Enterprise                      | AR   |
 |          | Google Daydream                              | VR   |
