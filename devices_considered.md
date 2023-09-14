@@ -58,6 +58,7 @@ From the papers that we considered (can be found from full_list_of_papers.md), w
 
 
 ## Some Additional Links
+### In our paper, information from these links is used to summarize the properties of XR devices. 
 
 |Link's Purpose| Link|
 | -------------------- | --------------------- | 
