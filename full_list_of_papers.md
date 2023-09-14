@@ -8,13 +8,12 @@ We would also like to thank our anonymous reviewers for recommending additional 
 ### From Google Scholar Search:
 | Title  | Status                                                                                                      |
 |--------|------------------------------------------------------------------------------------------------------------|
-| Mimicry attacks on smartphone keystroke authentication | |
 |Designing leakage-resilient password entry on head-mounted smart wearable glass devices | |
-|Towards Security and Privacy for Multi-User Augmented Reality: Foundations with End Users| |
+|Towards Security and Privacy for Multi-User Augmented Reality: Foundations with End Users| Cited |
 |Securing Augmented Reality Output| |
 |Privacy Leakage via Unrestricted Motion-Position Sensors in the Age of Virtual Reality: A Study of Snooping Typed Input on Virtual Keyboards| |
-|SoK: Authentication in Augmented and Virtual Reality| |
-|Evaluating and Redefining Smartphone Permissions with Contextualized Justifications for Mobile Augmented Reality Apps| |
+|SoK: Authentication in Augmented and Virtual Reality|Eliminated from Elimination Criteria 1 |
+|Evaluating and Redefining Smartphone Permissions with Contextualized Justifications for Mobile Augmented Reality Apps|Eliminated from Elimination Criteria 0|
 |Secure Multi-User Content Sharing for Augmented Reality Applications| |
 |Ethics Emerging: the Story of Privacy and Security Perceptions in Virtual Reality| |
 |AdCube: WebVR Ad Fraud and Practical Confinement of Third-Party Ads| |
