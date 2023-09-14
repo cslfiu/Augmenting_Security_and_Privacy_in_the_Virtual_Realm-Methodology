@@ -67,10 +67,3 @@
 
 ### Table 1: List of 60 venues found from Top Publications Search on CSRankings for related topics. 
 
-## List of Venues Resulted from ACM/IEEE Workshop/CCS Library Search
-- ACM Symposium on Eye Tracking Research & Applications
-- IEEE Transactions on Visualization and Computer Graphics
-- ACM SIGSAC
-- IEEE Access
-- IEEE Conference on Communications and Network Security (CNS)
-- IEEE Annual International Symposium Virtual Reality
