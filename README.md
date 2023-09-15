@@ -12,7 +12,7 @@ Hence, we chose:
 As each category contained the top 20 venues, this resulted in 60 total venues for which we analyzed submissions. The list of all venues considered can be found in list_all_venues.md in this repository. 
 
 ## ACM, CCS, IEEE Workshop Libraries Search.
-In addition to the top 60 venues that we searched for using CSRankings, we also wanted to examine the published papers that were directly related to our topic but were not included in the top 60 venues. For this purpose, we also queried ACM Digital Library, and IEEE Xplore using the terms that are detailed in the following section. 
+In addition to the top 60 venues that we searched for using CSRankings, we also wanted to examine the published papers that were directly related to our topic but were not included in the top 60 venues. With this, we tried to eliminate bias that would have occurred due to only focusing on the top venues. For this purpose, we also queried ACM Digital Library, and IEEE Xplore using the terms that are detailed in the following section. 
 
 
 ## Terms Considered.
