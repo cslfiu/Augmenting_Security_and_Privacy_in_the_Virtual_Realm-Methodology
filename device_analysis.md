@@ -65,8 +65,8 @@ From the papers that we considered (can be found from [List of Potential and Fin
 | Google          | - Google Glass Enterprise Edition 2 <br> - Google Glass Explorer Edition <br> - Google Glass Enterprise <br> - Google Daydream |                      |                        |                   |                  |
 | HTC             | - HTC Vive Flow <br> - HTC Vive Focus <br> - HTC Vive Cosmos <br> - HTC Vive Focus Plus <br> - HTC Vive Pro Eye <br> - HTC Vive <br> - HTC Vive Pro <br> - The Vive Wave |                      |                        |                   |                  |
 | Magic Leap      | - Magic Leap 2 <br> - Magic Leap                                                                                            |                      |                        |                   |                  |
-| Meta (formerly Oculus) | - Meta Quest Pro <br> - Oculus Quest 2/ Meta Quest 2 <br> - Oculus Quest / Meta Quest <br> - Oculus Go                   |                      |                        |                   |                  |
-| Microsoft       | - Oculus Rift <br> - Microsoft Kinect One <br> - Microsoft HoloLens 2 <br> - Microsoft HoloLens <br> - Windows Mixed Reality  |                      |                        |                   |                  |
+| Meta (formerly Oculus) | - Meta Quest Pro <br> - Oculus Quest 2/ Meta Quest 2 <br> - Oculus Quest / Meta Quest <br> - Oculus Go                   |        [Activity monitoring and verification](https://about.meta.com/actions/protecting-privacy-and-security/#privacy-protection)              |                        |                   |                  |
+| Microsoft       | - Oculus Rift <br> - Microsoft Kinect One <br> - Microsoft HoloLens 2 <br> - Microsoft HoloLens <br> - Windows Mixed Reality  |       [Microsoft Defender SmartScreen](https://learn.microsoft.com/en-us/windows/security/operating-system-security/virus-and-threat-protection/microsoft-defender-smartscreen/)               |                        |                   |                  |
 | Pico            | - Pico 4                                                                                                                     |                      |                        |                   |                  |
 | Pimax           | - Pimax Vision 8k                                                                                                           |                      |                        |                   |                  |
 | Samsung         | - Samsung Gear VR                                                                                                           |                      |                        |                   |                  |
@@ -90,5 +90,5 @@ In our paper, information from these links is used to summarize the properties o
 | Meta developer's website on haptic feedback APIs | https://developer.oculus.com/documentation/unity/unity-haptics/|
 | Haptic feedback gloves | https://haptx.com/ | 
 | HTC Vive haptic feedback controller | https://www.vive.com/us/accessory/controller/| 
-
+| Microsoft HoloLens 2's security baseline| https://learn.microsoft.com/en-us/hololens/security-baseline|
 
