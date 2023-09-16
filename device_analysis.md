@@ -59,6 +59,8 @@ From the papers that we considered (can be found from [List of Potential and Fin
 
 ## 4) XR Devices' Security Analysis
 
+In the following table, the references for the security properties discussed for each device in the paper are given. The references are included in this GitHub repository due to the limit of 15 references in the magazine paper.
+
 | Device Vendor   | Devices that Applies                                                                                                       | Links |
 |-----------------|----------------------------------------------------------------------------------------------------------------------------|----------------------|
 | Epson           | - Epson Moverio                                                                                                             |                      |
@@ -67,11 +69,11 @@ From the papers that we considered (can be found from [List of Potential and Fin
 | Magic Leap      | - Magic Leap 2 <br> - Magic Leap                                                                                            |                      |
 | Meta (formerly Oculus) | - Meta Quest Pro <br> - Oculus Quest 2/ Meta Quest 2 <br> - Oculus Quest / Meta Quest <br> - Oculus Go                   |        [Application Security](https://about.meta.com/actions/protecting-privacy-and-security/#privacy-protection)              |
 | Microsoft       | - Oculus Rift <br> - Microsoft Kinect One <br> - Microsoft HoloLens 2 <br> - Microsoft HoloLens <br> - Windows Mixed Reality  |       [Application Security](https://learn.microsoft.com/en-us/windows/security/operating-system-security/virus-and-threat-protection/microsoft-defender-smartscreen/)               |
-| Pico            | - Pico 4                                                                                                                     |                      |
+| Pico            | - Pico 4                                                                                                                     |       [Application Security]([https://www.vuzix.com/pages/app-privacy-policy](https://www.picoxr.com/global/safety-center/resources#:~:text=ETSI%20EN%20303%20645%20is,protect%20users'%20information%20security%20and))              |
 | Pimax           | - Pimax Vision 8k                                                                                                           |                      |
 | Samsung         | - Samsung Gear VR                                                                                                           |                      |
-| Sony            | - PSVR <br> - PSVR 2                                                                                                         |                      |
-| Vuzix           | - Vuzix Blade 2                                                                                                              |                      |
+| Sony            | - PSVR <br> - PSVR 2                                                                                                         |     [Application Security](https://www.playstation.com/en-us/privacy-security-safety/)                 |
+| Vuzix           | - Vuzix Blade 2                                                                                                              |       [Application Security](https://www.vuzix.com/pages/app-privacy-policy)               |
 
 
 
