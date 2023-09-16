@@ -59,40 +59,19 @@ From the papers that we considered (can be found from [List of Potential and Fin
 
 ## 4) XR Devices' Security Analysis
 
-| Device Vendor   | Devices that Applies              | Application Security | Communication Security | Hardware Security | Account Security |
-|-----------------|-----------------------------------|----------------------|------------------------|-------------------|------------------|
-| Google          | Google Glass Enterprise Edition 2 |                      |                        |                   |                  |
-|                 | Google Glass Explorer Edition     |                      |                        |                   |                  |
-|                 | Google Glass Enterprise           |                      |                        |                   |                  |
-|                 | Google Daydream                   |                      |                        |                   |                  |
-| Magic Leap      | Magic Leap 2                      |                      |                        |                   |                  |
-|                 | Magic Leap                        |                      |                        |                   |                  |
-| Meta (formerly Oculus) | Meta Quest Pro             |                      |                        |                   |                  |
-|                 | Oculus Quest 2/ Meta Quest 2      |                      |                        |                   |                  |
-|                 | Oculus Quest / Meta Quest         |                      |                        |                   |                  |
-|                 | Oculus Go                         |                      |                        |                   |                  |
-| Epson           | Epson Moverio                     |                      |                        |                   |                  |
-| Samsung         | Samsung Gear VR                   |                      |                        |                   |                  |
-| Vuzix           | Vuzix Blade 2                      |                      |                        |                   |                  |
-| Pico            | Pico 4                            |                      |                        |                   |                  |
-| HTC             | HTC Vive Flow                     |                      |                        |                   |                  |
-|                 | HTC Vive Focus                    |                      |                        |                   |                  |
-|                 | HTC Vive Cosmos                   |                      |                        |                   |                  |
-|                 | HTC Vive Focus Plus               |                      |                        |                   |                  |
-|                 | HTC Vive Pro Eye                  |                      |                        |                   |                  |
-|                 | HTC Vive                          |                      |                        |                   |                  |
-|                 | HTC Vive Pro                      |                      |                        |                   |                  |
-|                 | The Vive Wave                     |                      |                        |                   |                  |
-| Microsoft       | Oculus Rift                       |                      |                        |                   |                  |
-|                 | Microsoft Kinect One              |                      |                        |                   |                  |
-|                 | Microsoft HoloLens 2              |                      |                        |                   |                  |
-|                 | Microsoft HoloLens                |                      |                        |                   |                  |
-|                 | Windows Mixed Reality             |                      |                        |                   |                  |
-| Pimax           | Pimax Vision 8k                   |                      |                        |                   |                  |
-| Sony            | PSVR                              |                      |                        |                   |                  |
-|                 | PSVR 2                            |                      |                        |                   |                  |
-
-
+| Device Vendor   | Devices that Applies                                                                                                       | Application Security | Communication Security | Hardware Security | Account Security |
+|-----------------|----------------------------------------------------------------------------------------------------------------------------|----------------------|------------------------|-------------------|------------------|
+| Epson           | - Epson Moverio                                                                                                             |                      |                        |                   |                  |
+| Google          | - Google Glass Enterprise Edition 2 <br> - Google Glass Explorer Edition <br> - Google Glass Enterprise <br> - Google Daydream |                      |                        |                   |                  |
+| HTC             | - HTC Vive Flow <br> - HTC Vive Focus <br> - HTC Vive Cosmos <br> - HTC Vive Focus Plus <br> - HTC Vive Pro Eye <br> - HTC Vive <br> - HTC Vive Pro <br> - The Vive Wave |                      |                        |                   |                  |
+| Magic Leap      | - Magic Leap 2 <br> - Magic Leap                                                                                            |                      |                        |                   |                  |
+| Meta (formerly Oculus) | - Meta Quest Pro <br> - Oculus Quest 2/ Meta Quest 2 <br> - Oculus Quest / Meta Quest <br> - Oculus Go                   |                      |                        |                   |                  |
+| Microsoft       | - Oculus Rift <br> - Microsoft Kinect One <br> - Microsoft HoloLens 2 <br> - Microsoft HoloLens <br> - Windows Mixed Reality  |                      |                        |                   |                  |
+| Pico            | - Pico 4                                                                                                                     |                      |                        |                   |                  |
+| Pimax           | - Pimax Vision 8k                                                                                                           |                      |                        |                   |                  |
+| Samsung         | - Samsung Gear VR                                                                                                           |                      |                        |                   |                  |
+| Sony            | - PSVR <br> - PSVR 2                                                                                                         |                      |                        |                   |                  |
+| Vuzix           | - Vuzix Blade 2                                                                                                              |                      |                        |                   |                  |
 
 
 
@@ -102,7 +81,7 @@ In our paper, information from these links is used to summarize the properties o
 |Link's Purpose| Link|
 | -------------------- | --------------------- | 
 | Information on Degree of Freedom| https://developers.google.com/vr/discover/degrees-of-freedom | 
-| Quest Pro's face tracking | https://www.roadtovr.com/quest-pro-face-tracking-tech-demo-aura/|
+| Meta Quest Pro's face tracking | https://www.roadtovr.com/quest-pro-face-tracking-tech-demo-aura/|
 | Meta's privacy information regarding their hand-tracking technology | https://www.meta.com/help/quest/articles/accounts/privacy-information-and-settings/hand-tracking-privacy-notice/ |
 | Vive Tracker 3 and body motion tracking | https://www.vive.com/us/accessory/tracker3/|
 | Vive Focus 3 eye tracking technology | https://business.vive.com/eu/product/vive-focus-3-eye-tracker/|
