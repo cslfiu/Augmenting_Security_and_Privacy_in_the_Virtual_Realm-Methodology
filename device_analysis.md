@@ -74,4 +74,5 @@ In our paper, information from these links is used to summarize the properties o
 | HTC Vive haptic feedback controller | https://www.vive.com/us/accessory/controller/| 
 
 
-
+| Device Vendor | Devices that Applies | Application Security | Communication Security | Hardware Security | Account Security | 
+| -------------------- | --------------------- | | -------------------- | --------------------- | | -------------------- | --------------------- | 
