@@ -74,5 +74,36 @@ In our paper, information from these links is used to summarize the properties o
 | HTC Vive haptic feedback controller | https://www.vive.com/us/accessory/controller/| 
 
 
-| Device Vendor | Devices that Applies | Application Security | Communication Security | Hardware Security | Account Security | 
-| -------------------- | --------------------- | | -------------------- | --------------------- | | -------------------- | --------------------- | 
+| Device Vendor   | Devices that Applies              | Application Security | Communication Security | Hardware Security | Account Security |
+|-----------------|-----------------------------------|----------------------|------------------------|-------------------|------------------|
+| Google          | Google Glass Enterprise Edition 2 |                      |                        |                   |                  |
+|                 | Google Glass Explorer Edition     |                      |                        |                   |                  |
+|                 | Google Glass Enterprise           |                      |                        |                   |                  |
+|                 | Google Daydream                   |                      |                        |                   |                  |
+| Magic Leap      | Magic Leap 2                      |                      |                        |                   |                  |
+|                 | Magic Leap                        |                      |                        |                   |                  |
+| Meta (formerly Oculus) | Meta Quest Pro             |                      |                        |                   |                  |
+|                 | Oculus Quest 2/ Meta Quest 2      |                      |                        |                   |                  |
+|                 | Oculus Quest / Meta Quest         |                      |                        |                   |                  |
+|                 | Oculus Go                         |                      |                        |                   |                  |
+| Epson           | Epson Moverio                     |                      |                        |                   |                  |
+| Samsung         | Samsung Gear VR                   |                      |                        |                   |                  |
+| Vuzix           | Vuzix Blade 2                      |                      |                        |                   |                  |
+| Pico            | Pico 4                            |                      |                        |                   |                  |
+| HTC             | HTC Vive Flow                     |                      |                        |                   |                  |
+|                 | HTC Vive Focus                    |                      |                        |                   |                  |
+|                 | HTC Vive Cosmos                   |                      |                        |                   |                  |
+|                 | HTC Vive Focus Plus               |                      |                        |                   |                  |
+|                 | HTC Vive Pro Eye                  |                      |                        |                   |                  |
+|                 | HTC Vive                          |                      |                        |                   |                  |
+|                 | HTC Vive Pro                      |                      |                        |                   |                  |
+|                 | The Vive Wave                     |                      |                        |                   |                  |
+| Microsoft       | Oculus Rift                       |                      |                        |                   |                  |
+|                 | Microsoft Kinect One              |                      |                        |                   |                  |
+|                 | Microsoft HoloLens 2              |                      |                        |                   |                  |
+|                 | Microsoft HoloLens                |                      |                        |                   |                  |
+|                 | Windows Mixed Reality             |                      |                        |                   |                  |
+| Pimax           | Pimax Vision 8k                   |                      |                        |                   |                  |
+| Sony            | PSVR                              |                      |                        |                   |                  |
+|                 | PSVR 2                            |                      |                        |                   |                  |
+
