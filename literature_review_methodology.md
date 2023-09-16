@@ -52,6 +52,8 @@ The search strategy yielded 319 potential papers (131 from Google Scholar, 123 f
 
 This criteria alone eliminated the majority of the papers. This is due to several factors. For instance, we realized during the elimination of the papers that, the initial set of potential papers (once all the duplicates are removed) also contained articles that are not related to XR devices. Such as some had a scope of AR apps in smartphones [2], tested their proposed method on a smartphone [3], or used a dataset not obtained through an XR device [4]. Additionally, the first set of papers contained many articles that weren't directly related to the devices' or the users' security and privacy, or not going into depth on the attacks and defenses, such as [4-6]. We also removed 9 additional papers from the first potential papers list that were either a magazine version of the conference paper that was also included in the list or papers that were only expanding the work done on a paper that was already included in the list [7].
 
+We also want to emphasize that due to our paper being an SoK paper and not an in-depth survey, we had limited space. In order to cover the topics as much as possible, we picked the papers that were most relevant by doing manual elimination. 
+
 
 ## References
 - [1] Stephenson, Sophie, et al. "Sok: Authentication in augmented and virtual reality." 2022 IEEE Symposium on Security and Privacy (SP). IEEE, 2022.
