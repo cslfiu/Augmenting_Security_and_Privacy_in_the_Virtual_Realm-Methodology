@@ -1,3 +1,6 @@
+# Prisma 2020 Systematic Review
+
+We used Prisma 2020 guidelines as a guide during the writing of our magazine paper. We adapted the points of Prisma 2020 checklist which are given below. 
 ## Checklist for Systematic Review Reporting
 
 | Section and Topic             | Item # | Checklist item                                                                                                                                                                                               | Location where item is reported |
