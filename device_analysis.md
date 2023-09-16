@@ -59,19 +59,19 @@ From the papers that we considered (can be found from [List of Potential and Fin
 
 ## 4) XR Devices' Security Analysis
 
-| Device Vendor   | Devices that Applies                                                                                                       | Application Security | Communication Security | Hardware Security | Account Security |
-|-----------------|----------------------------------------------------------------------------------------------------------------------------|----------------------|------------------------|-------------------|------------------|
-| Epson           | - Epson Moverio                                                                                                             |                      |                        |                   |                  |
-| Google          | - Google Glass Enterprise Edition 2 <br> - Google Glass Explorer Edition <br> - Google Glass Enterprise <br> - Google Daydream |                      |                        |                   |                  |
-| HTC             | - HTC Vive Flow <br> - HTC Vive Focus <br> - HTC Vive Cosmos <br> - HTC Vive Focus Plus <br> - HTC Vive Pro Eye <br> - HTC Vive <br> - HTC Vive Pro <br> - The Vive Wave |                      |                        |                   |                  |
-| Magic Leap      | - Magic Leap 2 <br> - Magic Leap                                                                                            |                      |                        |                   |                  |
-| Meta (formerly Oculus) | - Meta Quest Pro <br> - Oculus Quest 2/ Meta Quest 2 <br> - Oculus Quest / Meta Quest <br> - Oculus Go                   |        [Activity monitoring and verification](https://about.meta.com/actions/protecting-privacy-and-security/#privacy-protection)              |                        |                   |                  |
-| Microsoft       | - Oculus Rift <br> - Microsoft Kinect One <br> - Microsoft HoloLens 2 <br> - Microsoft HoloLens <br> - Windows Mixed Reality  |       [Microsoft Defender SmartScreen](https://learn.microsoft.com/en-us/windows/security/operating-system-security/virus-and-threat-protection/microsoft-defender-smartscreen/)               |                        |                   |                  |
-| Pico            | - Pico 4                                                                                                                     |                      |                        |                   |                  |
-| Pimax           | - Pimax Vision 8k                                                                                                           |                      |                        |                   |                  |
-| Samsung         | - Samsung Gear VR                                                                                                           |                      |                        |                   |                  |
-| Sony            | - PSVR <br> - PSVR 2                                                                                                         |                      |                        |                   |                  |
-| Vuzix           | - Vuzix Blade 2                                                                                                              |                      |                        |                   |                  |
+| Device Vendor   | Devices that Applies                                                                                                       | Links |
+|-----------------|----------------------------------------------------------------------------------------------------------------------------|----------------------|
+| Epson           | - Epson Moverio                                                                                                             |                      |
+| Google          | - Google Glass Enterprise Edition 2 <br> - Google Glass Explorer Edition <br> - Google Glass Enterprise <br> - Google Daydream |                      |
+| HTC             | - HTC Vive Flow <br> - HTC Vive Focus <br> - HTC Vive Cosmos <br> - HTC Vive Focus Plus <br> - HTC Vive Pro Eye <br> - HTC Vive <br> - HTC Vive Pro <br> - The Vive Wave |                      |
+| Magic Leap      | - Magic Leap 2 <br> - Magic Leap                                                                                            |                      |
+| Meta (formerly Oculus) | - Meta Quest Pro <br> - Oculus Quest 2/ Meta Quest 2 <br> - Oculus Quest / Meta Quest <br> - Oculus Go                   |        [Application Security](https://about.meta.com/actions/protecting-privacy-and-security/#privacy-protection)              |
+| Microsoft       | - Oculus Rift <br> - Microsoft Kinect One <br> - Microsoft HoloLens 2 <br> - Microsoft HoloLens <br> - Windows Mixed Reality  |       [Application Security](https://learn.microsoft.com/en-us/windows/security/operating-system-security/virus-and-threat-protection/microsoft-defender-smartscreen/)               |
+| Pico            | - Pico 4                                                                                                                     |                      |
+| Pimax           | - Pimax Vision 8k                                                                                                           |                      |
+| Samsung         | - Samsung Gear VR                                                                                                           |                      |
+| Sony            | - PSVR <br> - PSVR 2                                                                                                         |                      |
+| Vuzix           | - Vuzix Blade 2                                                                                                              |                      |
 
 
 
