@@ -1,5 +1,5 @@
 # Full List of Papers That Are Considered for Our SoK
-The details on the selection of the potential papers and the elimination criteria that led to the final list of cited papers are explained in the README.md file. 
+The details on the selection of the potential papers and the elimination criteria that led to the final list of cited papers are explained in the [Read Me](README.md). 
 
 We would also like to thank our anonymous reviewers for recommending additional papers for us to cite, which we included in our final list of cited papers. 
 
