@@ -6,7 +6,7 @@ In order to find as many papers that perform security and privacy attacks or def
 
 For the Google Scholar search, we identified the top 60 venues we wanted to target using the Top Publications rankings from CSRankings. Then, we searched through the papers published in those venues since 2015 which contained a set of terms anywhere in the document using Google Scholar's Advanced Search. This search resulted in 131 potential papers. Additionally, to find papers directly related to our topic that could have been published in any other venue, we followed the same search idea in ACM Digital Library, and IEEE Xplore Library, resulting in 319 potential papers.
 
-From 319 potential papers, we have restricted our selection to 40 papers, listed in full_list_of_papers.md, testing practical attacks and their defenses that target XR devices' security and privacy. We further detail our literature review methodology in the subsections.
+From 319 potential papers, we have restricted our selection to 40 papers, listed in [List of Potential and Final Papers](full_list_of_papers.md), testing practical attacks and their defenses that target XR devices' security and privacy. We further detail our literature review methodology in the subsections.
 
  ## Venues Considered for Google Scholar Search. 
 For venue selection, we used [CSRankings](https://scholar.google.com/citations?view_op=top_venues) where we selected *Engineering and Computer Science* as the category, a similar approach was followed in other survey papers[1]. This presented different subcategories of venues, and we selected the ones related to security and privacy and AR/VR/MR devices. 
@@ -16,7 +16,7 @@ Hence, we chose:
 * Computer Graphics: AR/VR/MR devices utilize computer graphics in their design
 *  Human-Computer Interaction: AR/VR/MR devices are about humans interacting with computer-generated environments and objects
   
-As each category contained the top 20 venues, this resulted in 60 total venues for which we analyzed submissions. The list of all venues considered can be found in list_all_venues.md in this repository. 
+As each category contained the top 20 venues, this resulted in 60 total venues for which we analyzed submissions. The list of all venues considered can be found in [List of All Venues](list_all_venues.md) in this repository. 
 
 ## ACM, CCS, IEEE Workshop Libraries Search.
 In addition to the top 60 venues that we searched for using CSRankings, we also wanted to examine the published papers that were directly related to our topic but were not included in the top 60 venues. With this, we tried to eliminate bias that would have occurred due to only focusing on the top venues. For this purpose, we also queried ACM Digital Library, and IEEE Xplore using the terms that are detailed in the following section. 
