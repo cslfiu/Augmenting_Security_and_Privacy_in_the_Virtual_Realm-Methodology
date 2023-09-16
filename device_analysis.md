@@ -1,10 +1,10 @@
 # XR Device Analysis
 
-## Device Search Methodology
+## 1) Device Search Methodology
 
 From the papers that we considered (can be found from [List of Potential and Final Papers](full_list_of_papers.md)), we gathered the devices used for the experiments. Some papers included the device name only as an example, while others used it to implement their proposed methods for the attacks or defense solution. We also looked at the companies that produced the devices mentioned in the papers and added the other XR devices from those companies to our device dataset. Additionally, we also added the older and newer versions of the devices, if there are any. At the end of this process, in total, we identified 30 XR devices which a whole list of can be found in the following sections.
 
-## Device Manifacturer's Security Documentation and Privacy Policy Links
+## 2) Device Manifacturer's Security Documentation and Privacy Policy Links
 
 | Device Manufacturers | Documentation Website | Privacy Policy |
 | -------------------- | --------------------- | -------------- |
@@ -21,7 +21,7 @@ From the papers that we considered (can be found from [List of Potential and Fin
 | Vuzix | [vuzix.com/products/vuzix-blade-smart-glasses-upgraded](https://www.vuzix.com/products/vuzix-blade-smart-glasses-upgraded) | [vuzix.com/pages/privacy-policy](https://www.vuzix.com/pages/privacy-policy) |
 
 
-## List of All Devices Considered
+## 3) List of All Devices Considered
 
 | Platform | Devices                                      | Type |
 |----------|----------------------------------------------|------|
@@ -57,22 +57,7 @@ From the papers that we considered (can be found from [List of Potential and Fin
 |          | PSVR 2                                       | VR   |
 
 
-## Some Additional Links
-In our paper, information from these links is used to summarize the properties of XR devices. 
-
-|Link's Purpose| Link|
-| -------------------- | --------------------- | 
-| Information on Degree of Freedom| https://developers.google.com/vr/discover/degrees-of-freedom | 
-| Quest Pro's face tracking | https://www.roadtovr.com/quest-pro-face-tracking-tech-demo-aura/|
-| Meta's privacy information regarding their hand-tracking technology | https://www.meta.com/help/quest/articles/accounts/privacy-information-and-settings/hand-tracking-privacy-notice/ |
-| Vive Tracker 3 and body motion tracking | https://www.vive.com/us/accessory/tracker3/|
-| Vive Focus 3 eye tracking technology | https://business.vive.com/eu/product/vive-focus-3-eye-tracker/|
-| Meta Quest Pro's facial expression tracking | https://www.meta.com/help/quest/articles/accounts/privacy-information-and-settings/natural-facial-expressions-privacy-notice/|
-| Meta devices' passthrough technology | https://www.meta.com/help/quest/articles/in-vr-experiences/oculus-features/passthrough/|
-| Meta developer's website on haptic feedback APIs | https://developer.oculus.com/documentation/unity/unity-haptics/|
-| Haptic feedback gloves | https://haptx.com/ | 
-| HTC Vive haptic feedback controller | https://www.vive.com/us/accessory/controller/| 
-
+## 4) XR Devices' Security Analysis
 
 | Device Vendor   | Devices that Applies              | Application Security | Communication Security | Hardware Security | Account Security |
 |-----------------|-----------------------------------|----------------------|------------------------|-------------------|------------------|
@@ -106,4 +91,25 @@ In our paper, information from these links is used to summarize the properties o
 | Pimax           | Pimax Vision 8k                   |                      |                        |                   |                  |
 | Sony            | PSVR                              |                      |                        |                   |                  |
 |                 | PSVR 2                            |                      |                        |                   |                  |
+
+
+
+
+
+## 5) Some Additional Links
+In our paper, information from these links is used to summarize the properties of XR devices. 
+
+|Link's Purpose| Link|
+| -------------------- | --------------------- | 
+| Information on Degree of Freedom| https://developers.google.com/vr/discover/degrees-of-freedom | 
+| Quest Pro's face tracking | https://www.roadtovr.com/quest-pro-face-tracking-tech-demo-aura/|
+| Meta's privacy information regarding their hand-tracking technology | https://www.meta.com/help/quest/articles/accounts/privacy-information-and-settings/hand-tracking-privacy-notice/ |
+| Vive Tracker 3 and body motion tracking | https://www.vive.com/us/accessory/tracker3/|
+| Vive Focus 3 eye tracking technology | https://business.vive.com/eu/product/vive-focus-3-eye-tracker/|
+| Meta Quest Pro's facial expression tracking | https://www.meta.com/help/quest/articles/accounts/privacy-information-and-settings/natural-facial-expressions-privacy-notice/|
+| Meta devices' passthrough technology | https://www.meta.com/help/quest/articles/in-vr-experiences/oculus-features/passthrough/|
+| Meta developer's website on haptic feedback APIs | https://developer.oculus.com/documentation/unity/unity-haptics/|
+| Haptic feedback gloves | https://haptx.com/ | 
+| HTC Vive haptic feedback controller | https://www.vive.com/us/accessory/controller/| 
+
 
