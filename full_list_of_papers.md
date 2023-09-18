@@ -54,3 +54,8 @@ For interested readers, we suggest some additional papers that are related to XR
 - To find papers that propose authentication mechanisms to XR devices, we recommend readers to check the following SoK paper:
   S. Stephenson et al., "SoK: Authentication in Augmented and Virtual Reality," in Proc. IEEE Symp. on Sec. and Privacy, 2022
   
+- A survey paper that discusses security and privacy issues on VR: A.Giaretta.Securityandprivacyinvirtualreality–aliteraturesurvey. arXiv preprint arXiv:2205.00208, 2022.
+  
+- A survey paper on AR devices in healthcare: J.Ara,F.B.Karim,M.S.A.Alsubaie,Y.A.Bhuiyan,M.I.Bhuiyan, S. B. Bhyan, and H. Bhuiyan. Comprehensive analysis of augmented reality technology in modern healthcare system. IJASCA, 12(6), 2021.
+  
+- SoK on data privacy in VR: M. Billinghurst, A. Clark, G. Lee, et al. A survey of augmented reality. Foundations and Trends® in Human–Computer Interaction, 8(2-3):73–272, 2015.
