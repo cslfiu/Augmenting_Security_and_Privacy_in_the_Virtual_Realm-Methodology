@@ -3,6 +3,8 @@ The details on the selection of the potential papers and the elimination criteri
 
 We would also like to thank our anonymous reviewers for recommending additional papers for us to cite, which we included in our final list of cited papers. 
 
+## Papers Cited
+
 1. M. E. Mahan, “Exploring ransomware on the oculus quest 2,” Ph.D. dissertation, Louisiana Tech University, 2022.
 2. S. Valluripally et al., “Modeling and defense of social virtual reality attacks inducing cybersickness,” IEEE Trans. on Dep. and Secure Comput., vol. 19, pp. 4127-4144, Oct. 2021.
 3. J. Happa et al., "Cyber security threats and challenges in collaborative mixed-reality." Frontiers in ICT 6, Apr. 2019.
@@ -44,3 +46,11 @@ We would also like to thank our anonymous reviewers for recommending additional 
 39. H. Lee et al., "{AdCube}:{WebVR} Ad Fraud and Practical Confinement of {Third-Party} Ads." presented at the 30th USENIX Sec. Symp., Aug 11-13, 2021.
 40. Y. Abdrabou et al. "Understanding shoulder surfer behavior and attack patterns using virtual reality." in Proc. 2022 Int. Conf. on Adv. Visual Int., 2022, pp. 1-9.
 41. F. Mathis, K. Vaniea, and M. Khamis. "Can i borrow your atm? using virtual reality for (simulated) in situ authentication research." in IEEE Conf. on VR and 3D User Interf., 2022, pp. 301-310.
+
+
+## Related Work
+For interested readers, we suggest some additional papers that are related to XR devices and their security/privacy.
+
+- To find papers that propose authentication mechanisms to XR devices, we recommend readers to check the following SoK paper:
+  S. Stephenson et al., "SoK: Authentication in Augmented and Virtual Reality," in Proc. IEEE Symp. on Sec. and Privacy, 2022
+  
