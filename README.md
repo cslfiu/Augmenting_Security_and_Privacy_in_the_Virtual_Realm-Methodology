@@ -1,4 +1,4 @@
-# SoK_Methodology
+# Methodology of "Augmenting Security and Privacy in the Virtual Realm: An Analysis of Extended Reality Devices"
 
 This repository outlines the methodology used in our Systematization of Knowledge (SoK) paper, titled **"Augmenting Security and Privacy in the Virtual Realm: An Analysis of Extended Reality Devices"**.
 
